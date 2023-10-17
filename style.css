@@ -4,3 +4,6 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
+h1{
+    color: rgba(189, 189, 187, 0.952);
+}
