@@ -7,3 +7,11 @@ body{
 h1{
     color: rgba(218, 218, 217, 0.952);
 }
+.boatao{
+    background-color: rgb(181, 182, 182);
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
