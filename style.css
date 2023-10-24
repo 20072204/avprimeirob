@@ -15,3 +15,6 @@ h1{
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
+.boatao:hover {
+background-color: rgb(255, 255, 255);
+}
