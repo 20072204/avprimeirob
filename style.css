@@ -22,5 +22,6 @@ background-color: rgb(231, 228, 228);
     background-color: black;
     padding: 20px;
     width: 99%;
-    border-color: rgb(182, 177, 177);
+    border-style: groove;
+    border-color: rgb(124, 124, 124);
 }
