@@ -6,6 +6,7 @@ body{
 }
 h1{
     color: rgba(218, 218, 217, 0.952);
+    text-align: center;
 }
 .boatao{
     background-color: rgb(182, 182, 182);
